@@ -1,3 +1,4 @@
+# Minor edit
 import { compressionQualityOptions } from './config';
 
 export function validateCompressionQuality(quality) {
